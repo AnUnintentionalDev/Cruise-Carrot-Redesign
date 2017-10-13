@@ -1,0 +1,8 @@
+[
+    { "firstName" : "Rohit"},
+    { "lastName": "Sharma"},
+    { "qualification" : "Graduate B.Sc(Chem.)"},
+    { "profession" : "Front End Developer"},
+    { "contactNo" : +91-9999477068},
+    { "city" : "New Delhi"}
+]
