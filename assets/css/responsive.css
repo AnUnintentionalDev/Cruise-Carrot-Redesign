@@ -1,0 +1,18 @@
+@media screen and (max-width: 460px){ 
+    .top-destinations .nav-pills{ overflow-x: scroll;}
+}
+
+@media screen and (max-width: 767px){
+    .navbar-toggleable-md .navbar-nav li a{ border-bottom: thin solid #1b487d; border-right: 0; }
+
+    .carousel .carousel-item img{ height: 300px; width: 100%;}
+    
+    .itinerary-content .tag .itinerary-tag{ position: relative; left: 0;}
+    
+    #back-to-top{ right: 10px; bottom: 10px;}
+}
+
+@media screen and (max-width: 991px){
+    .navbar-toggleable-md .navbar-nav li a{ border: none;}
+    
+}
